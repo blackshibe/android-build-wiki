@@ -1,5 +1,8 @@
 # Qualcomm Crashdump
 
+!!! info
+    Last Updated for: Android 14
+    
 This is your last resort, if you can't get USB working and/or ADB access; and you're bootlooping. So, some Qualcomm devices have crashdump mode enabled, and this allows us to get a memory dump using EDL, when the kernel panics.
 
 In my case, I had to enable dload mode in the kernel:

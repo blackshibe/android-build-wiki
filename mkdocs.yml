@@ -1,4 +1,22 @@
-site_name: My site
-site_url: https://mydomain.org/mysite
+site_name: Android build wiki
+repo_url: https://github.com/blackshibe/android-build-wiki
 theme:
     name: material
+    palette:
+        scheme: slate
+        primary: green
+    icon:
+        repo: fontawesome/brands/github
+markdown_extensions:
+    - toc
+    - admonition
+    - pymdownx.highlight:
+        anchor_linenums: true
+        line_spans: __span
+        pygments_lang_class: true
+        auto_title: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - pymdownx.superfences
+
+

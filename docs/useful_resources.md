@@ -1,6 +1,7 @@
 # Useful resources
 
-Updated for: Android 14
+!!! info
+    Last Updated for: Android 14
 
 ## Telegram chats
 
@@ -19,8 +20,9 @@ I suggest reading all of it, or at least the relevant parts to the issue you are
 
 -   [Signing builds correctly](https://gist.github.com/A2L5E0X1/54cb1b3a49030a9ebf8608b4e68073f5)
 -   AlaskaLinuxUser on Youtube - decent youtube tutorials
--   [ Some Chinese dude's tutorial on A/B](https://cfig.github.io/2017/03/28/Bring-up-Android-A-B-system/):
+-   [Some Chinese dude's tutorial on A/B](https://cfig.github.io/2017/03/28/Bring-up-Android-A-B-system/):
 -   twrpdtgen; useful tool for compiling a device tree from scratch: https://github.com/twrpdtgen/twrpdtgen
+-   [PostMarketOS wiki has great developer guides](https://wiki.postmarketos.org/wiki/Main_Page)
 
 ## Sony devices
 
