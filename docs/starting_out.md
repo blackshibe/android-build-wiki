@@ -18,8 +18,8 @@ Android also takes a lot of resources to compile. At bare minimum, you need:
 
 Device dev support is on a (rough) scale from:
 
--   Official (Builds directly downloadable from the LineageOS website, for example)
--   Unofficial (XDA threads, or Telegram groups related to the device)
+-   Official (Builds directly downloadable from the LineageOS website, for example, with high reliability)
+-   Unofficial (XDA threads, or Telegram groups related to the device, may have some issues)
 -   WIP trees (Device tree repos on the internet, no actually working builds)
 -   No trees
 -   No trees and no kernel
